@@ -2,7 +2,7 @@ const no = document.getElementById("btn2");
 const yes = document.getElementById("btn1");
 
 //group 1 of btts
-const btt1 = document.getElementById('btt1');
+const btt1 = document.('btt1');
 const btt2 = document.getElementById('btt2');
 const btt3 = document.getElementById('btt3');
 const btt4 = document.getElementById('btt4');
